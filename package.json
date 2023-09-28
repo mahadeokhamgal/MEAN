@@ -1,0 +1,11 @@
+{
+  "name": "angular16_webpack5",
+  "version": "1.0.0",
+  "description": "This is to demonstrate the angular app with webpack rather than cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahadeokhamgal@gmail.com",
+  "license": "ISC"
+}
